@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-aws-s3-auth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AWS S3 provider with mild authentication for strapi upload",
   "homepage": "",
   "keywords": [
